@@ -22,3 +22,11 @@
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
+
+
+That is so funny! :joy:
+
+~~The world is flat.~~
+
+	term
+: definition
