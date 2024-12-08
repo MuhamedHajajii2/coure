@@ -16,3 +16,9 @@
 
 *italic text*
 > block quote
+
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
