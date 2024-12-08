@@ -3,7 +3,7 @@
 ---
 
 1. First we can talk about
-2. Second
+2. **Second**
 3. third
 
 - Hello World first
